@@ -1,0 +1,23 @@
+{
+  "name": "mySTV",
+  "version": "0.1.0",
+  "homepage": "https://github.com/4everalonedev/mySTV",
+  "authors": [
+    "4everalonedev@gmail.com"
+  ],
+  "description": "Samsung Smart TV app for better UX in daily work with TV",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "backbone": "~1.1.2",
+    "requirejs": "~2.1.15"
+  }
+}

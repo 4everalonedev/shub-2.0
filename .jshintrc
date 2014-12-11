@@ -1,0 +1,31 @@
+{
+    "globals": {
+        "require": true,
+        "define": true,
+        "console": true,
+        "describe": true,
+        "it": true,
+        "expect": true
+    },
+    "bitwise": false,
+    "camelcase": false,
+    "curly": true,
+    "eqeqeq": true,
+    "forin": true,
+    "immed": true,
+    "newcap": true,
+    "noarg": true,
+    "noempty": true,
+    "nonew": true,
+    "plusplus": false,
+    "undef": true,
+    "unused": true,
+    "indent": 4,
+    "browser": true,
+    "jquery": true,
+    "nomen": false,
+    "onevar": false,
+    "white": true,
+    "multistr": true,
+    "strict": true
+}

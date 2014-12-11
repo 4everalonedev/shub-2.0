@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>mySTV</title>
+    <!--Say hello to the TV as fast as you can!-->
+    <script>
+        if(window.curWidget)
+            window.curWidget.setPreference('ready', 'true');
+    </script>
+    <!-- build:js rcfg-tv.js -->
+    <script src="rcfg-browser.js"></script>
+    <!-- endbuild -->
+</head>
+<body>
+    <!-- build:js app/main.js data-main="main" -->
+    <script src="../bower_components/requirejs/require.js" data-main="app/main"></script>
+    <!-- endbuild -->
+</body>
+</html>

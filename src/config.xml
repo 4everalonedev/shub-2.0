@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget>
+    <previewjs></previewjs>
+    <cpname></cpname>
+    <cplogo></cplogo>
+    <preIcon></preIcon>
+    <cpauthjs></cpauthjs>
+    <login>n</login>
+
+    <ThumbIcon>images/icons/icon_106.jpg</ThumbIcon>
+    <BigThumbIcon>images/icons/icon_115.jpg</BigThumbIcon>
+    <ListIcon>images/icons/icon_85.jpg</ListIcon>
+    <BigListIcon>images/icons/icon_95.jpg</BigListIcon>
+    <category>video</category>
+    <autoUpdate>y</autoUpdate>
+
+    <mouse>y</mouse>
+    <voice>y</voice>
+
+    <ver>0.100</ver>
+    <mgrver>1.000</mgrver>
+
+    <fullwidget>y</fullwidget>
+    <srcctl>n</srcctl>
+    <ticker>n</ticker>
+    <childlock>n</childlock>
+    <audiomute>n</audiomute>
+    <videomute>n</videomute>
+    <dcont>y</dcont>
+
+    <widgetname>shub-2.0</widgetname>
+    <description>sHUB 2.0</description>
+
+    <sns>n</sns>
+    <runTitle>shub20</runTitle>
+
+    <width>1280</width>
+    <height>720</height>
+
+    <author>
+        <name>4everAloneDev</name>
+        <email>4everalonedev@gmail.com</email>
+        <link></link>
+        <organization></organization>
+    </author>
+
+    <ThumbIconHD />
+    <BigThumbIconHD />
+    <ListIconHD />
+    <BigListIconHD />
+</widget>
